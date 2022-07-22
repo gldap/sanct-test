@@ -1,0 +1,24 @@
+{
+  "name": "voteform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage" : "https://gldap.github.io/vform",
+  "dependencies": {
+    "gh-pages": "^3.1.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser": "^2.0.1"
+  }
+}
