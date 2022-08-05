@@ -31,7 +31,9 @@ html {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-
+}
+.main img {
+  margin-top: -25rem;
 
 }
  .main h2 {
@@ -41,9 +43,6 @@ html {
 
   padding: 1.25rem;
   margin-top: -30rem;
-}
- img {
-
 }
 
 .footer {
